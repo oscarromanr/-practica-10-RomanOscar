@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "875489580061",
+    "project_id": "fir-login-20349",
+    "storage_bucket": "fir-login-20349.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:875489580061:android:0ae45efbdeef99840ea2f4",
+        "android_client_info": {
+          "package_name": "roman.oscar.firebaselogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "875489580061-i6t7qdh7ut19fsfjo0mcpoi4oudse5n5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCffGa0SYmkGoVb6ELS52vpwKT7E-7yWjA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "875489580061-i6t7qdh7ut19fsfjo0mcpoi4oudse5n5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
